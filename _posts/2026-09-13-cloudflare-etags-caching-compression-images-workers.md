@@ -1,7 +1,7 @@
 ---
 title: "HTTP ETags with Cloudflare CDN and Image Transformations"
 date: 2026-09-13 22:10:00 +0600
-categories: [Web Engineering, Cloudflare]
+categories: [Platform Engineering, Cloudflare]
 tags: [cloudflare, http, etag, cdn, caching, web performance]
 author: noman
 mermaid: true
